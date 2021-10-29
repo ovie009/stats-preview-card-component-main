@@ -201,10 +201,12 @@ body{
         padding: 0;
         padding: 50px;
         justify-content: space-evenly;
+        align-items: flex-start;
     }
 
     .card-heading{
         padding: 0;
+        text-align: left;
     }
 
     .card-text{
